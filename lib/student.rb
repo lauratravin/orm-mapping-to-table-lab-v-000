@@ -6,7 +6,7 @@ class Student
     @id = id 
     @name = name
     @grade = grade
-  end  
-    
+  end
+
 
 end
